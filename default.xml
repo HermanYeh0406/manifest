@@ -4,7 +4,7 @@
         <remote name="tfo"    fetch="https://git.trustedfirmware.org" />
         <remote name="u-boot" fetch="https://gitlab.denx.de/u-boot" />
 
-        <default remote="github" revision="master" />
+        <default remote="github" revision="main" />
 
         <!-- Herman gits -->
         <project path="nodeJS"              name="HermanYeh0406/nodeJS.git" />

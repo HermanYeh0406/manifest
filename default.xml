@@ -10,6 +10,7 @@
         <project path="nodeJS"              name="HermanYeh0406/nodeJS.git" />
         <project path="Chrome_Test_1"       name="HermanYeh0406/Chrome_Test_1.git" />
         <project path="optee_test"          name="HermanYeh0406/optee_os-master.git" />
+        <project path="build"               name="OP-TEE/build.git">
                 <linkfile src="qemu.mk" dest="build/Makefile" />
         </project>
 
